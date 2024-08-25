@@ -1,4 +1,4 @@
-# HomeLab
+# Home Lab
 
 This repository showcases the design, implementation, and management of my personal homelab. Currently being used as a sandbox environment for learning new software and skills in a simulated lab environment.
 
