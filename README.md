@@ -1,6 +1,6 @@
 # Home Lab
 
-This repository showcases the design, implementation, and management of my personal homelab. Currently being used as a sandbox environment for learning new software and skills in a simulated lab environment.
+This repository showcases the design of my personal homelab. Currently being used as a sandbox environment for learning new software and skills in a simulated lab environment.
 
 <p align="center">
   <img src="/src/DSCF1167.jpg" alt="Image 1" width="45%"/>
