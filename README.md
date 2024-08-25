@@ -7,7 +7,12 @@ This repository showcases the design, implementation, and management of my perso
   <img src="/src/DSCF1168.jpg" alt="Image 2" width="45%"/>
 </p>
 
+## Rack Layout
 <p align="center">
   <img src="/src/rack.drawio.png" width="45%"/>
 </p>
 
+## Rack Network Architecture
+<p align="center">
+  <img src="/src/Arch.drawio.png"/>
+</p>
